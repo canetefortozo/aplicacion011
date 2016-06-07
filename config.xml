@@ -19,9 +19,7 @@ Aplicacion que crea una base de datos
 KARLA CANETE FORTOZO
 </autor>
 
-<gap:plugin name="org.apache.cordova.device" version="0.2.12"/>
-	    <gap:plugin name="org.apache.cordova.vibration" version="0.3.0"/>
-<gap:plugin name="org.apache.cordova.dialogs" version="0.2.6"/>
+<plugin name="org.apache.cordova.geolocation" spec="0.3.12" source="pgb"/>
 <!-- Colocar icono app -->
 
 <icon src="res/android/mdpi.png"/>
